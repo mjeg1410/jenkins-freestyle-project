@@ -1,1 +1,1 @@
-echo 'Changed!'
+echo 'Pushd!'
